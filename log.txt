@@ -1,0 +1,1 @@
+0511. 🐛 fix: fix broken CSS in mobile view
