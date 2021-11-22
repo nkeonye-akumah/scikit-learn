@@ -1,1 +1,2 @@
 0511. 🐛 fix: fix broken CSS in mobile view
+0259. 🚀 perf: lazy-load components
