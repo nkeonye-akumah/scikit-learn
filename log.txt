@@ -4,3 +4,4 @@
 0099. 🚀 perf: reduce image load time
 0271. ✅ test: add unit test for quiz service
 0934. ✨ feat: support email verification
+0997. ✅ test: increase coverage on auth module
