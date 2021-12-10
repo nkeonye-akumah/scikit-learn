@@ -9,3 +9,4 @@
 0764. ✨ feat: add user authentication
 0334. 🚀 perf: cache repeated calculations
 0815. 🔧 refactor: split large controller into smaller functions
+0167. 🚀 perf: reduce image load time
