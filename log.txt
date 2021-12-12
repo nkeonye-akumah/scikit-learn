@@ -10,3 +10,4 @@
 0334. 🚀 perf: cache repeated calculations
 0815. 🔧 refactor: split large controller into smaller functions
 0167. 🚀 perf: reduce image load time
+0066. 🔧 refactor: clean up auth middleware
