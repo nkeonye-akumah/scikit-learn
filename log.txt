@@ -16,3 +16,4 @@
 0302. ✨ feat: implement quiz timer feature
 0290. ✅ test: test user registration edge cases
 0961. 📚 docs: add API usage examples
+0837. 🚀 perf: cache repeated calculations
