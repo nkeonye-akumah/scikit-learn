@@ -23,3 +23,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0392. 🎨 style: remove trailing whitespace
 0423. ✅ test: mock database connection in test suite
+0933. 📚 docs: clarify environment setup
