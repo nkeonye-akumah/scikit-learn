@@ -25,3 +25,4 @@
 0423. ✅ test: mock database connection in test suite
 0933. 📚 docs: clarify environment setup
 0253. 📚 docs: update README with setup steps
+0347. ♻️ chore: update .gitignore
