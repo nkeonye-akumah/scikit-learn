@@ -26,3 +26,4 @@
 0933. 📚 docs: clarify environment setup
 0253. 📚 docs: update README with setup steps
 0347. ♻️ chore: update .gitignore
+0127. 🐛 fix: fix null pointer exception on login
