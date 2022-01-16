@@ -31,3 +31,4 @@
 0407. 🚀 perf: cache repeated calculations
 0544. 🔧 refactor: organize models into subfolders
 0582. ✨ feat: add export to CSV option
+0087. ✨ feat: add export to CSV option
