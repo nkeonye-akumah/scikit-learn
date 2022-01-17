@@ -33,3 +33,4 @@
 0582. ✨ feat: add export to CSV option
 0087. ✨ feat: add export to CSV option
 0026. 🔧 refactor: clean up auth middleware
+0965. 🎨 style: reformat files with black
