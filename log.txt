@@ -45,3 +45,4 @@
 0358. 🚀 perf: reduce image load time
 0210. 🎨 style: apply consistent indentation
 0606. 📚 docs: improve code comments in utils
+0601. ✨ feat: implement quiz timer feature
