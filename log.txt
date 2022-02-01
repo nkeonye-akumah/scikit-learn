@@ -47,3 +47,4 @@
 0606. 📚 docs: improve code comments in utils
 0601. ✨ feat: implement quiz timer feature
 0928. 🎨 style: apply consistent indentation
+0075. ✅ test: mock database connection in test suite
