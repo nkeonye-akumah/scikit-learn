@@ -51,3 +51,4 @@
 0164. 📚 docs: document token refresh logic
 0324. 📚 docs: document token refresh logic
 0827. 🚀 perf: optimize database query for quiz results
+0476. 🚀 perf: reduce image load time
