@@ -64,3 +64,4 @@
 0165. 🎨 style: remove trailing whitespace
 0399. ✅ test: mock database connection in test suite
 0421. 🔧 refactor: split large controller into smaller functions
+0517. ✅ test: mock database connection in test suite
