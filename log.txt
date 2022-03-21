@@ -67,3 +67,4 @@
 0517. ✅ test: mock database connection in test suite
 0960. ✅ test: increase coverage on auth module
 0249. ✅ test: increase coverage on auth module
+0839. 🎨 style: apply consistent indentation
