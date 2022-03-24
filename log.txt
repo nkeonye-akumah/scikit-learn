@@ -69,3 +69,4 @@
 0249. ✅ test: increase coverage on auth module
 0839. 🎨 style: apply consistent indentation
 0651. ✨ feat: enable dark mode toggle
+0083. 🎨 style: reformat files with black
