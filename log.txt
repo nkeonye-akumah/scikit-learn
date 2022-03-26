@@ -71,3 +71,4 @@
 0651. ✨ feat: enable dark mode toggle
 0083. 🎨 style: reformat files with black
 0902. ✨ feat: enable dark mode toggle
+0437. 📚 docs: clarify environment setup
