@@ -84,3 +84,4 @@
 0991. ♻️ chore: clean up unused files
 0305. ✨ feat: enable dark mode toggle
 0513. ♻️ chore: bump dependencies
+0091. ✨ feat: add user authentication
