@@ -87,3 +87,4 @@
 0091. ✨ feat: add user authentication
 0927. ♻️ chore: bump dependencies
 0299. 🐛 fix: resolve issue with date parsing
+0816. 🔧 refactor: organize models into subfolders
