@@ -91,3 +91,4 @@
 0678. ✨ feat: add user authentication
 0161. ✨ feat: create admin dashboard
 0160. ♻️ chore: bump dependencies
+0330. ✅ test: test user registration edge cases
