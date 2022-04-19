@@ -94,3 +94,4 @@
 0330. ✅ test: test user registration edge cases
 0362. 📚 docs: add API usage examples
 0443. 🎨 style: standardize quote style
+0922. 📚 docs: write FAQ section
