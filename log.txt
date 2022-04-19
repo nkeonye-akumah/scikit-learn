@@ -92,3 +92,4 @@
 0161. ✨ feat: create admin dashboard
 0160. ♻️ chore: bump dependencies
 0330. ✅ test: test user registration edge cases
+0362. 📚 docs: add API usage examples
