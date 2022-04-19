@@ -93,3 +93,4 @@
 0160. ♻️ chore: bump dependencies
 0330. ✅ test: test user registration edge cases
 0362. 📚 docs: add API usage examples
+0443. 🎨 style: standardize quote style
