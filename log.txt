@@ -95,3 +95,4 @@
 0362. 📚 docs: add API usage examples
 0443. 🎨 style: standardize quote style
 0922. 📚 docs: write FAQ section
+0251. ♻️ chore: update .gitignore
