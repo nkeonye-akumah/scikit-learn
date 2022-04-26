@@ -102,3 +102,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0323. 📚 docs: clarify environment setup
 0223. 🔧 refactor: remove redundant code blocks
+0535. 📚 docs: write FAQ section
