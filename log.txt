@@ -104,3 +104,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0535. 📚 docs: write FAQ section
 0152. ✨ feat: add user authentication
+0599. ✅ test: test user registration edge cases
