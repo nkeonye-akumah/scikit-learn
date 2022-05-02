@@ -106,3 +106,4 @@
 0152. ✨ feat: add user authentication
 0599. ✅ test: test user registration edge cases
 0352. ✨ feat: add export to CSV option
+0579. 📚 docs: clarify environment setup
