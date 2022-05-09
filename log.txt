@@ -112,3 +112,4 @@
 0693. 📚 docs: add API usage examples
 0812. 🔧 refactor: refactor quiz grading logic
 0590. 🐛 fix: fix null pointer exception on login
+0020. ✅ test: add integration test for /submit endpoint
