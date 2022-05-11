@@ -113,3 +113,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0590. 🐛 fix: fix null pointer exception on login
 0020. ✅ test: add integration test for /submit endpoint
+0570. 🎨 style: apply consistent indentation
