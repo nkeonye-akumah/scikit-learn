@@ -120,3 +120,4 @@
 0873. 🚀 perf: cache repeated calculations
 0169. 📚 docs: add API usage examples
 0186. ✅ test: test user registration edge cases
+0898. 🐛 fix: fix broken CSS in mobile view
