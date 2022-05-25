@@ -122,3 +122,4 @@
 0186. ✅ test: test user registration edge cases
 0898. 🐛 fix: fix broken CSS in mobile view
 0094. 📚 docs: document token refresh logic
+0894. ✅ test: add integration test for /submit endpoint
