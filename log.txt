@@ -130,3 +130,4 @@
 0903. ✅ test: mock database connection in test suite
 0741. 🎨 style: apply consistent indentation
 0051. ✨ feat: enable dark mode toggle
+0564. 📚 docs: clarify environment setup
