@@ -132,3 +132,4 @@
 0051. ✨ feat: enable dark mode toggle
 0564. 📚 docs: clarify environment setup
 0451. ✨ feat: support email verification
+0895. ✨ feat: support email verification
