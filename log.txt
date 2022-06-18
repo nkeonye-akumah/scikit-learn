@@ -133,3 +133,4 @@
 0564. 📚 docs: clarify environment setup
 0451. ✨ feat: support email verification
 0895. ✨ feat: support email verification
+0035. ✅ test: increase coverage on auth module
