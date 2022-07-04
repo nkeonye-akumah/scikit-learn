@@ -142,3 +142,4 @@
 0185. 📚 docs: write FAQ section
 0070. ✨ feat: implement quiz timer feature
 0166. 🚀 perf: cache repeated calculations
+0170. ✅ test: increase coverage on auth module
