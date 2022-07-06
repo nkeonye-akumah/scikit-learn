@@ -143,3 +143,4 @@
 0070. ✨ feat: implement quiz timer feature
 0166. 🚀 perf: cache repeated calculations
 0170. ✅ test: increase coverage on auth module
+0558. ✨ feat: enable dark mode toggle
