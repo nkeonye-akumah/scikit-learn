@@ -145,3 +145,4 @@
 0170. ✅ test: increase coverage on auth module
 0558. ✨ feat: enable dark mode toggle
 0373. 📚 docs: document token refresh logic
+0122. ✨ feat: support email verification
