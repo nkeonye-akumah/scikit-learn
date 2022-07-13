@@ -147,3 +147,4 @@
 0373. 📚 docs: document token refresh logic
 0122. ✨ feat: support email verification
 0480. ♻️ chore: add GitHub actions badge
+0620. ✨ feat: implement quiz timer feature
