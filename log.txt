@@ -154,3 +154,4 @@
 0237. 🎨 style: standardize quote style
 0801. ✨ feat: enable dark mode toggle
 0257. 📚 docs: clarify environment setup
+0108. 🎨 style: remove trailing whitespace
