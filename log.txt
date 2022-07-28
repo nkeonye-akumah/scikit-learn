@@ -155,3 +155,4 @@
 0801. ✨ feat: enable dark mode toggle
 0257. 📚 docs: clarify environment setup
 0108. 🎨 style: remove trailing whitespace
+0851. ✅ test: mock database connection in test suite
