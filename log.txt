@@ -156,3 +156,4 @@
 0257. 📚 docs: clarify environment setup
 0108. 🎨 style: remove trailing whitespace
 0851. ✅ test: mock database connection in test suite
+0498. ✅ test: mock database connection in test suite
