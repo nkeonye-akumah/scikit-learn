@@ -167,3 +167,4 @@
 0468. 📚 docs: update README with setup steps
 0806. 📚 docs: improve code comments in utils
 0361. ✨ feat: support email verification
+0332. 🎨 style: standardize quote style
