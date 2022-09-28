@@ -182,3 +182,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0847. ♻️ chore: clean up unused files
 0391. 🐛 fix: fix null pointer exception on login
+0371. ✅ test: add integration test for /submit endpoint
