@@ -189,3 +189,4 @@
 0504. 📚 docs: document token refresh logic
 0904. ✨ feat: implement quiz timer feature
 0145. 📚 docs: improve code comments in utils
+0556. ✨ feat: support email verification
