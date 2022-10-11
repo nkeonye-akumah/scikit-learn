@@ -192,3 +192,4 @@
 0556. ✨ feat: support email verification
 0019. ✨ feat: enable dark mode toggle
 0537. 🔧 refactor: remove redundant code blocks
+0692. ✅ test: add integration test for /submit endpoint
