@@ -196,3 +196,4 @@
 0369. 🎨 style: standardize quote style
 0644. 🎨 style: apply consistent indentation
 0431. 🎨 style: reformat files with black
+0115. 🚀 perf: reduce image load time
