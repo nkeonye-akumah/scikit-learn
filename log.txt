@@ -198,3 +198,4 @@
 0431. 🎨 style: reformat files with black
 0115. 🚀 perf: reduce image load time
 0112. ✨ feat: enable dark mode toggle
+0810. 🔧 refactor: refactor quiz grading logic
