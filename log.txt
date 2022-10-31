@@ -203,3 +203,4 @@
 0658. 🎨 style: rename variables for clarity
 0159. 🚀 perf: lazy-load components
 0512. 🚀 perf: reduce image load time
+0381. ♻️ chore: clean up unused files
