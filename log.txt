@@ -205,3 +205,4 @@
 0512. 🚀 perf: reduce image load time
 0381. ♻️ chore: clean up unused files
 0675. 🔧 refactor: organize models into subfolders
+0704. 🚀 perf: cache repeated calculations
