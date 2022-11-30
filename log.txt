@@ -221,3 +221,4 @@
 0335. ♻️ chore: update .gitignore
 0085. ✨ feat: support email verification
 0234. ♻️ chore: rename env.example
+0107. 🐛 fix: prevent crash on empty input
