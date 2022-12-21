@@ -233,3 +233,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0778. 📚 docs: write FAQ section
 0003. ✅ test: increase coverage on auth module
+0027. 📚 docs: clarify environment setup
