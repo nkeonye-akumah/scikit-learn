@@ -239,3 +239,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0826. 📚 docs: clarify environment setup
 0486. ✨ feat: add export to CSV option
+0614. 🚀 perf: reduce image load time
