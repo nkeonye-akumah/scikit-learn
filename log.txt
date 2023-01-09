@@ -243,3 +243,4 @@
 0298. ♻️ chore: update .gitignore
 0342. 🚀 perf: cache repeated calculations
 0343. 🚀 perf: optimize database query for quiz results
+0619. ✨ feat: create admin dashboard
