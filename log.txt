@@ -260,3 +260,4 @@
 0951. 🎨 style: rename variables for clarity
 0987. ✨ feat: create admin dashboard
 0577. ✨ feat: implement quiz timer feature
+0600. 🐛 fix: prevent crash on empty input
