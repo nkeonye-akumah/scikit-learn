@@ -267,3 +267,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0285. 🐛 fix: resolve issue with date parsing
 0226. 🚀 perf: lazy-load components
+0589. 🐛 fix: fix broken CSS in mobile view
