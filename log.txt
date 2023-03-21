@@ -287,3 +287,4 @@
 0024. 📚 docs: write FAQ section
 0212. 🎨 style: standardize quote style
 0636. ✅ test: increase coverage on auth module
+0674. 🔧 refactor: split large controller into smaller functions
