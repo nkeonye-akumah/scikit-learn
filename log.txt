@@ -290,3 +290,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0029. 🚀 perf: lazy-load components
 0395. 📚 docs: write FAQ section
+0803. ✅ test: mock database connection in test suite
