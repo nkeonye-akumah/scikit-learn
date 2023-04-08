@@ -301,3 +301,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0935. 📚 docs: update README with setup steps
 0163. ✨ feat: implement quiz timer feature
+0028. 🎨 style: standardize quote style
