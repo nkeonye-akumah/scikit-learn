@@ -302,3 +302,4 @@
 0935. 📚 docs: update README with setup steps
 0163. ✨ feat: implement quiz timer feature
 0028. 🎨 style: standardize quote style
+0980. 🎨 style: reformat files with black
