@@ -304,3 +304,4 @@
 0028. 🎨 style: standardize quote style
 0980. 🎨 style: reformat files with black
 0080. ✨ feat: support email verification
+0445. 📚 docs: improve code comments in utils
