@@ -309,3 +309,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0265. 🎨 style: reformat files with black
 0848. 📚 docs: update README with setup steps
+0834. ✅ test: increase coverage on auth module
