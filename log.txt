@@ -311,3 +311,4 @@
 0848. 📚 docs: update README with setup steps
 0834. ✅ test: increase coverage on auth module
 0388. 🎨 style: reformat files with black
+0174. 📚 docs: clarify environment setup
