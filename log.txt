@@ -316,3 +316,4 @@
 0241. 📚 docs: add API usage examples
 0215. 🎨 style: reformat files with black
 0909. 🔧 refactor: organize models into subfolders
+0944. ✨ feat: add user authentication
