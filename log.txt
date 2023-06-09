@@ -331,3 +331,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0053. ✅ test: increase coverage on auth module
 0845. 🚀 perf: cache repeated calculations
+0993. ✨ feat: implement quiz timer feature
