@@ -337,3 +337,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0250. 📚 docs: update README with setup steps
 0527. 🎨 style: remove trailing whitespace
+0526. ✨ feat: add user authentication
