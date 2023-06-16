@@ -339,3 +339,4 @@
 0527. 🎨 style: remove trailing whitespace
 0526. ✨ feat: add user authentication
 0667. ✨ feat: add export to CSV option
+0175. 📚 docs: add API usage examples
