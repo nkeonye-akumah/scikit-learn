@@ -347,3 +347,4 @@
 0722. 📚 docs: add API usage examples
 0779. 🔧 refactor: organize models into subfolders
 0448. 🐛 fix: correct typo in registration form
+0006. 🐛 fix: prevent crash on empty input
