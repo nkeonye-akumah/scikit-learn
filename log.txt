@@ -358,3 +358,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0088. 📚 docs: add API usage examples
 0420. 🚀 perf: reduce image load time
+0427. ✅ test: mock database connection in test suite
