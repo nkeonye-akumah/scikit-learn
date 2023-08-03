@@ -369,3 +369,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0588. 🔧 refactor: organize models into subfolders
 0103. 🔧 refactor: remove redundant code blocks
+0625. 🐛 fix: handle 500 error in quiz API
