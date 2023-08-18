@@ -388,3 +388,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0968. 🎨 style: standardize quote style
 0862. ♻️ chore: bump dependencies
+0914. ✅ test: test user registration edge cases
