@@ -395,3 +395,4 @@
 0838. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
 0372. ✨ feat: add user authentication
+0785. ✨ feat: enable dark mode toggle
