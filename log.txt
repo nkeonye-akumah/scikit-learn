@@ -399,3 +399,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0756. ✨ feat: support email verification
 0772. 🐛 fix: fix null pointer exception on login
+0433. 🐛 fix: prevent crash on empty input
