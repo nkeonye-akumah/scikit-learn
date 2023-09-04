@@ -400,3 +400,4 @@
 0756. ✨ feat: support email verification
 0772. 🐛 fix: fix null pointer exception on login
 0433. 🐛 fix: prevent crash on empty input
+0379. ✨ feat: support email verification
