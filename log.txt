@@ -410,3 +410,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0267. 📚 docs: improve code comments in utils
 0444. ✅ test: add unit test for quiz service
+0354. 📚 docs: add API usage examples
