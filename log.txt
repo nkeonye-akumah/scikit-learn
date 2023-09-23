@@ -411,3 +411,4 @@
 0267. 📚 docs: improve code comments in utils
 0444. ✅ test: add unit test for quiz service
 0354. 📚 docs: add API usage examples
+0880. 🐛 fix: fix broken CSS in mobile view
