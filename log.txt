@@ -415,3 +415,4 @@
 0483. 📚 docs: update README with setup steps
 0387. ✨ feat: enable dark mode toggle
 0942. ✅ test: increase coverage on auth module
+0861. ♻️ chore: clean up unused files
