@@ -418,3 +418,4 @@
 0861. ♻️ chore: clean up unused files
 0883. 📚 docs: improve code comments in utils
 0120. ✅ test: add integration test for /submit endpoint
+0557. 🔧 refactor: clean up auth middleware
