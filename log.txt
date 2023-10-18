@@ -427,3 +427,4 @@
 0325. 🎨 style: rename variables for clarity
 0137. 🎨 style: rename variables for clarity
 0978. 🐛 fix: prevent crash on empty input
+0009. ✨ feat: enable dark mode toggle
