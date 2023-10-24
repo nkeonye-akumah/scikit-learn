@@ -433,3 +433,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0500. ✅ test: add integration test for /submit endpoint
 0716. ✨ feat: implement quiz timer feature
+0770. ♻️ chore: rename env.example
