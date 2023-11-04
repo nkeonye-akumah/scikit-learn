@@ -442,3 +442,4 @@
 0005. ✅ test: add unit test for quiz service
 0697. ♻️ chore: bump dependencies
 0499. 🎨 style: reformat files with black
+0292. 📚 docs: clarify environment setup
