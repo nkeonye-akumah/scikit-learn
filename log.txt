@@ -450,3 +450,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0177. 📚 docs: add API usage examples
 0424. ✨ feat: add user authentication
+0553. 🐛 fix: correct typo in registration form
