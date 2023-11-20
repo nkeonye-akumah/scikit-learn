@@ -451,3 +451,4 @@
 0177. 📚 docs: add API usage examples
 0424. ✨ feat: add user authentication
 0553. 🐛 fix: correct typo in registration form
+0118. 🚀 perf: reduce image load time
