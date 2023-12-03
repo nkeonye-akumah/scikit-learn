@@ -459,3 +459,4 @@
 0886. ♻️ chore: clean up unused files
 0260. ✨ feat: create admin dashboard
 0643. 🎨 style: apply consistent indentation
+0295. 🎨 style: remove trailing whitespace
