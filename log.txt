@@ -466,3 +466,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0015. ✨ feat: implement quiz timer feature
 0879. 🎨 style: standardize quote style
+0484. 🐛 fix: handle 500 error in quiz API
