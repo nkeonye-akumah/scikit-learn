@@ -478,3 +478,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0447. ♻️ chore: bump dependencies
 0095. ✅ test: mock database connection in test suite
+0479. 🐛 fix: fix null pointer exception on login
