@@ -482,3 +482,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0984. ♻️ chore: clean up unused files
 0521. 🎨 style: standardize quote style
+0247. 🎨 style: apply consistent indentation
