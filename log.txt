@@ -483,3 +483,4 @@
 0984. ♻️ chore: clean up unused files
 0521. 🎨 style: standardize quote style
 0247. 🎨 style: apply consistent indentation
+0685. ✅ test: test user registration edge cases
