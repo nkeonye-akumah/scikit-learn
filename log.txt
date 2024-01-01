@@ -484,3 +484,4 @@
 0521. 🎨 style: standardize quote style
 0247. 🎨 style: apply consistent indentation
 0685. ✅ test: test user registration edge cases
+0782. 📚 docs: improve code comments in utils
