@@ -491,3 +491,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0296. 🔧 refactor: organize models into subfolders
 0096. 🐛 fix: prevent crash on empty input
+0359. 🔧 refactor: clean up auth middleware
