@@ -523,3 +523,4 @@
 0010. ✨ feat: add user authentication
 0022. 📚 docs: document token refresh logic
 0082. 🔧 refactor: refactor quiz grading logic
+0948. 🐛 fix: fix broken CSS in mobile view
