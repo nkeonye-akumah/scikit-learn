@@ -524,3 +524,4 @@
 0022. 📚 docs: document token refresh logic
 0082. 🔧 refactor: refactor quiz grading logic
 0948. 🐛 fix: fix broken CSS in mobile view
+0491. 🚀 perf: lazy-load components
