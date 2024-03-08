@@ -526,3 +526,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0491. 🚀 perf: lazy-load components
 0645. 🐛 fix: resolve issue with date parsing
+0072. 🚀 perf: optimize database query for quiz results
