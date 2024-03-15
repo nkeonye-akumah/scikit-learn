@@ -531,3 +531,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0252. 🎨 style: remove trailing whitespace
 0294. 🐛 fix: prevent crash on empty input
+0383. 🐛 fix: fix broken CSS in mobile view
