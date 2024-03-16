@@ -532,3 +532,4 @@
 0252. 🎨 style: remove trailing whitespace
 0294. 🐛 fix: prevent crash on empty input
 0383. 🐛 fix: fix broken CSS in mobile view
+0505. ♻️ chore: add GitHub actions badge
