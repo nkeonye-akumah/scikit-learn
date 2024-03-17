@@ -533,3 +533,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0383. 🐛 fix: fix broken CSS in mobile view
 0505. ♻️ chore: add GitHub actions badge
+0753. 🔧 refactor: remove redundant code blocks
