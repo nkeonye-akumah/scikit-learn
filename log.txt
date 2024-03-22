@@ -538,3 +538,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0917. ✅ test: add integration test for /submit endpoint
 0471. ✨ feat: support email verification
+0616. 🚀 perf: lazy-load components
