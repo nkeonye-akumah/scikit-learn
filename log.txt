@@ -543,3 +543,4 @@
 0339. 📚 docs: update README with setup steps
 0509. ♻️ chore: bump dependencies
 0740. 🐛 fix: resolve issue with date parsing
+0412. ✅ test: increase coverage on auth module
