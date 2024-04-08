@@ -547,3 +547,4 @@
 0633. ✨ feat: add user authentication
 0042. 📚 docs: document token refresh logic
 0025. 🚀 perf: optimize database query for quiz results
+0780. 📚 docs: add API usage examples
