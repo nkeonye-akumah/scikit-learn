@@ -558,3 +558,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0410. 🎨 style: reformat files with black
 0555. ✨ feat: create admin dashboard
+0766. 🎨 style: reformat files with black
