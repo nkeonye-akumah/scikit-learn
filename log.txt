@@ -565,3 +565,4 @@
 0929. ✨ feat: support email verification
 0958. 🐛 fix: prevent crash on empty input
 0124. 🎨 style: reformat files with black
+0593. 🐛 fix: correct typo in registration form
