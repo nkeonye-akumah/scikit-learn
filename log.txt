@@ -566,3 +566,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0124. 🎨 style: reformat files with black
 0593. 🐛 fix: correct typo in registration form
+0646. ✅ test: test user registration edge cases
