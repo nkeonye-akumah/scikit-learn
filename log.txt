@@ -567,3 +567,4 @@
 0124. 🎨 style: reformat files with black
 0593. 🐛 fix: correct typo in registration form
 0646. ✅ test: test user registration edge cases
+0353. ♻️ chore: rename env.example
