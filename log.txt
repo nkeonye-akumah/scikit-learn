@@ -570,3 +570,4 @@
 0353. ♻️ chore: rename env.example
 0366. 🔧 refactor: remove redundant code blocks
 0056. ♻️ chore: rename env.example
+0456. 🚀 perf: optimize database query for quiz results
