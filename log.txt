@@ -586,3 +586,4 @@
 0875. ✅ test: increase coverage on auth module
 0184. 📚 docs: improve code comments in utils
 0189. 📚 docs: clarify environment setup
+0985. 📚 docs: document token refresh logic
