@@ -592,3 +592,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0876. ♻️ chore: rename env.example
 0832. 🔧 refactor: remove redundant code blocks
+0831. 📚 docs: clarify environment setup
