@@ -594,3 +594,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0831. 📚 docs: clarify environment setup
 0007. 🎨 style: rename variables for clarity
+0791. 🔧 refactor: clean up auth middleware
