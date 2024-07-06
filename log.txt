@@ -600,3 +600,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0209. ✨ feat: implement quiz timer feature
 0857. 🎨 style: rename variables for clarity
+0642. 🚀 perf: optimize database query for quiz results
