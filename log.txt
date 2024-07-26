@@ -616,3 +616,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0158. 📚 docs: clarify environment setup
 0192. ✨ feat: enable dark mode toggle
+0721. 🚀 perf: optimize database query for quiz results
