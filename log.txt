@@ -629,3 +629,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0572. ✨ feat: add user authentication
 0664. ✅ test: add unit test for quiz service
+0990. ♻️ chore: rename env.example
