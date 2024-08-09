@@ -630,3 +630,4 @@
 0572. ✨ feat: add user authentication
 0664. ✅ test: add unit test for quiz service
 0990. ♻️ chore: rename env.example
+0193. 🚀 perf: optimize database query for quiz results
