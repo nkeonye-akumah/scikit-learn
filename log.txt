@@ -633,3 +633,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0466. 🚀 perf: optimize database query for quiz results
 0734. ✨ feat: add export to CSV option
+0819. 🚀 perf: reduce image load time
