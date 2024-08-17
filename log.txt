@@ -635,3 +635,4 @@
 0734. ✨ feat: add export to CSV option
 0819. 🚀 perf: reduce image load time
 0478. 🐛 fix: resolve issue with date parsing
+0573. ✅ test: add integration test for /submit endpoint
