@@ -638,3 +638,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0566. 📚 docs: write FAQ section
 0200. 🐛 fix: handle 500 error in quiz API
+0940. 📚 docs: document token refresh logic
