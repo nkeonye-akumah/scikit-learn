@@ -653,3 +653,4 @@
 0567. 📚 docs: add API usage examples
 0004. 🚀 perf: optimize database query for quiz results
 0830. 🎨 style: apply consistent indentation
+0224. 🐛 fix: fix broken CSS in mobile view
