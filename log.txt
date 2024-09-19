@@ -656,3 +656,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0689. 🎨 style: reformat files with black
 0818. 🔧 refactor: remove redundant code blocks
+0520. 🐛 fix: fix null pointer exception on login
