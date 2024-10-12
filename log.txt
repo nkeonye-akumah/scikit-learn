@@ -670,3 +670,4 @@
 0762. 🚀 perf: lazy-load components
 0811. 🎨 style: reformat files with black
 0470. 🎨 style: remove trailing whitespace
+0649. 📚 docs: update README with setup steps
