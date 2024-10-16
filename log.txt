@@ -673,3 +673,4 @@
 0649. 📚 docs: update README with setup steps
 0542. 🔧 refactor: organize models into subfolders
 0301. 🎨 style: apply consistent indentation
+0947. 📚 docs: write FAQ section
