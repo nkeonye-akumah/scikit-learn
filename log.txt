@@ -682,3 +682,4 @@
 0269. ✅ test: test user registration edge cases
 0822. 🔧 refactor: remove redundant code blocks
 0254. 🚀 perf: reduce image load time
+0062. ♻️ chore: update .gitignore
