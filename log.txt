@@ -683,3 +683,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0254. 🚀 perf: reduce image load time
 0062. ♻️ chore: update .gitignore
+0653. 🐛 fix: prevent crash on empty input
