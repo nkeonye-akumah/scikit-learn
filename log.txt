@@ -685,3 +685,4 @@
 0062. ♻️ chore: update .gitignore
 0653. 🐛 fix: prevent crash on empty input
 0472. 🐛 fix: fix null pointer exception on login
+0977. 🔧 refactor: organize models into subfolders
