@@ -702,3 +702,4 @@
 0194. 🎨 style: standardize quote style
 0908. ♻️ chore: bump dependencies
 0755. 🚀 perf: cache repeated calculations
+0068. 🐛 fix: fix null pointer exception on login
