@@ -707,3 +707,4 @@
 0989. 📚 docs: write FAQ section
 0282. 🔧 refactor: remove redundant code blocks
 0490. ✨ feat: create admin dashboard
+0684. 🚀 perf: reduce image load time
