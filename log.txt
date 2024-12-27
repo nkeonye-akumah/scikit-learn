@@ -709,3 +709,4 @@
 0490. ✨ feat: create admin dashboard
 0684. 🚀 perf: reduce image load time
 0370. 🚀 perf: reduce image load time
+0743. 🎨 style: apply consistent indentation
