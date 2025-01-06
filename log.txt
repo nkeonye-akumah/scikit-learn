@@ -716,3 +716,4 @@
 0449. ✅ test: add unit test for quiz service
 0783. 🐛 fix: handle 500 error in quiz API
 0385. ♻️ chore: clean up unused files
+0677. 📚 docs: add API usage examples
