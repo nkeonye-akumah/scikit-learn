@@ -722,3 +722,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0550. 🔧 refactor: split large controller into smaller functions
 0739. 🎨 style: remove trailing whitespace
+0287. 📚 docs: write FAQ section
