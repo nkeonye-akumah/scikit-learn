@@ -724,3 +724,4 @@
 0739. 🎨 style: remove trailing whitespace
 0287. 📚 docs: write FAQ section
 0962. ✨ feat: create admin dashboard
+0111. 📚 docs: update README with setup steps
