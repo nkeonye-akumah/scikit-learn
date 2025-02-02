@@ -725,3 +725,4 @@
 0287. 📚 docs: write FAQ section
 0962. ✨ feat: create admin dashboard
 0111. 📚 docs: update README with setup steps
+0852. ✨ feat: enable dark mode toggle
