@@ -726,3 +726,4 @@
 0962. ✨ feat: create admin dashboard
 0111. 📚 docs: update README with setup steps
 0852. ✨ feat: enable dark mode toggle
+0871. ✅ test: add integration test for /submit endpoint
