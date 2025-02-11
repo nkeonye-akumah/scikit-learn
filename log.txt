@@ -729,3 +729,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0277. 🎨 style: standardize quote style
 0844. 📚 docs: update README with setup steps
+0121. ✨ feat: support email verification
