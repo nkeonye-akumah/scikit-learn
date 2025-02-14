@@ -732,3 +732,4 @@
 0121. ✨ feat: support email verification
 0116. ✨ feat: support email verification
 0171. 🐛 fix: fix broken CSS in mobile view
+0641. 📚 docs: write FAQ section
