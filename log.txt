@@ -735,3 +735,4 @@
 0641. 📚 docs: write FAQ section
 0461. ✨ feat: add user authentication
 0575. ✅ test: add unit test for quiz service
+0701. 🔧 refactor: clean up auth middleware
