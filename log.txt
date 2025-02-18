@@ -734,3 +734,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0641. 📚 docs: write FAQ section
 0461. ✨ feat: add user authentication
+0575. ✅ test: add unit test for quiz service
