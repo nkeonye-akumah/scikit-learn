@@ -755,3 +755,4 @@
 0463. 🚀 perf: reduce image load time
 0786. ✨ feat: enable dark mode toggle
 0518. ✨ feat: support email verification
+0673. 🐛 fix: correct typo in registration form
