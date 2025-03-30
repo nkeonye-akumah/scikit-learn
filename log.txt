@@ -767,3 +767,4 @@
 0032. 🎨 style: apply consistent indentation
 0647. 🐛 fix: prevent crash on empty input
 0617. ✨ feat: support email verification
+0275. 🎨 style: standardize quote style
