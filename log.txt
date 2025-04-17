@@ -777,3 +777,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0648. ♻️ chore: bump dependencies
 0419. 🎨 style: remove trailing whitespace
+0136. 🚀 perf: lazy-load components
