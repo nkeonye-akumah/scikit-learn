@@ -781,3 +781,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0453. 🎨 style: standardize quote style
 0052. 🎨 style: standardize quote style
+0609. 🐛 fix: handle 500 error in quiz API
