@@ -785,3 +785,4 @@
 0686. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
 0030. 🐛 fix: fix null pointer exception on login
+0503. ♻️ chore: rename env.example
