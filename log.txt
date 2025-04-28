@@ -784,3 +784,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0686. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
+0030. 🐛 fix: fix null pointer exception on login
