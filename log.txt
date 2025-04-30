@@ -786,3 +786,4 @@
 0131. 📚 docs: write FAQ section
 0030. 🐛 fix: fix null pointer exception on login
 0503. ♻️ chore: rename env.example
+0881. 🔧 refactor: split large controller into smaller functions
