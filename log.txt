@@ -794,3 +794,4 @@
 0458. ✨ feat: create admin dashboard
 0239. 🎨 style: standardize quote style
 0936. 🔧 refactor: organize models into subfolders
+0514. 🐛 fix: fix broken CSS in mobile view
