@@ -795,3 +795,4 @@
 0239. 🎨 style: standardize quote style
 0936. 🔧 refactor: organize models into subfolders
 0514. 🐛 fix: fix broken CSS in mobile view
+0243. 🔧 refactor: clean up auth middleware
