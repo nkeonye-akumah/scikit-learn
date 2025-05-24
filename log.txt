@@ -803,3 +803,4 @@
 0528. ♻️ chore: clean up unused files
 0679. ♻️ chore: bump dependencies
 0825. 🔧 refactor: split large controller into smaller functions
+0941. 🚀 perf: cache repeated calculations
