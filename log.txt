@@ -809,3 +809,4 @@
 0487. 🎨 style: reformat files with black
 0585. 🚀 perf: lazy-load components
 0885. ♻️ chore: update .gitignore
+0612. ✅ test: test user registration edge cases
