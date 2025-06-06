@@ -814,3 +814,4 @@
 0306. 🎨 style: apply consistent indentation
 0956. 📚 docs: clarify environment setup
 0979. 🎨 style: standardize quote style
+0506. 🐛 fix: handle 500 error in quiz API
