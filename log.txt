@@ -817,3 +817,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0199. ✨ feat: create admin dashboard
 0995. ✅ test: mock database connection in test suite
+0329. 📚 docs: update README with setup steps
