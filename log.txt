@@ -818,3 +818,4 @@
 0199. ✨ feat: create admin dashboard
 0995. ✅ test: mock database connection in test suite
 0329. 📚 docs: update README with setup steps
+0162. ♻️ chore: add GitHub actions badge
