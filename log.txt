@@ -820,3 +820,4 @@
 0329. 📚 docs: update README with setup steps
 0162. ♻️ chore: add GitHub actions badge
 0363. 📚 docs: clarify environment setup
+0910. 🎨 style: remove trailing whitespace
