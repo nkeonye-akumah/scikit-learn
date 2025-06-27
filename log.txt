@@ -823,3 +823,4 @@
 0910. 🎨 style: remove trailing whitespace
 0807. 🔧 refactor: remove redundant code blocks
 0574. ✨ feat: enable dark mode toggle
+0181. ♻️ chore: add GitHub actions badge
