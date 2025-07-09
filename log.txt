@@ -828,3 +828,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0976. ✨ feat: implement quiz timer feature
 0583. ✅ test: increase coverage on auth module
+0586. 🎨 style: remove trailing whitespace
