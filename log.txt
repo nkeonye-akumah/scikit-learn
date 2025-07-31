@@ -837,3 +837,4 @@
 0715. ✨ feat: create admin dashboard
 0238. 🎨 style: apply consistent indentation
 0337. 📚 docs: document token refresh logic
+0039. ✅ test: add integration test for /submit endpoint
