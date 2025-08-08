@@ -846,3 +846,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0440. 📚 docs: update README with setup steps
 0631. ✨ feat: create admin dashboard
+0900. 🐛 fix: handle 500 error in quiz API
