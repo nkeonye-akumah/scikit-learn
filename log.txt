@@ -851,3 +851,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0102. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
+0950. 🎨 style: reformat files with black
