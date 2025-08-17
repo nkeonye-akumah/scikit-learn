@@ -852,3 +852,4 @@
 0102. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
 0950. 🎨 style: reformat files with black
+0889. 🚀 perf: lazy-load components
