@@ -858,3 +858,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0939. 📚 docs: update README with setup steps
 0975. 🎨 style: apply consistent indentation
+0044. ✅ test: add unit test for quiz service
