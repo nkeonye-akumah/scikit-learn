@@ -864,3 +864,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0730. ✅ test: test user registration edge cases
 0326. 🚀 perf: cache repeated calculations
+0843. 📚 docs: document token refresh logic
