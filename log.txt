@@ -868,3 +868,4 @@
 0150. 🎨 style: remove trailing whitespace
 0711. 🐛 fix: fix broken CSS in mobile view
 0622. 🎨 style: apply consistent indentation
+0283. ♻️ chore: add GitHub actions badge
