@@ -870,3 +870,4 @@
 0622. 🎨 style: apply consistent indentation
 0283. ♻️ chore: add GitHub actions badge
 0945. ♻️ chore: add GitHub actions badge
+0144. ✅ test: increase coverage on auth module
