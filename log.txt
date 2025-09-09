@@ -872,3 +872,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0144. ✅ test: increase coverage on auth module
 0344. ♻️ chore: add GitHub actions badge
+0747. 🔧 refactor: clean up auth middleware
