@@ -875,3 +875,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0442. 🎨 style: standardize quote style
 0729. 🔧 refactor: refactor quiz grading logic
+0008. 🚀 perf: reduce image load time
