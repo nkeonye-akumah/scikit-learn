@@ -884,3 +884,4 @@
 0855. 🎨 style: reformat files with black
 0921. 🐛 fix: correct typo in registration form
 0630. 🚀 perf: lazy-load components
+0522. 🐛 fix: handle 500 error in quiz API
