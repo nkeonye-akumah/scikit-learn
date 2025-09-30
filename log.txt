@@ -885,3 +885,4 @@
 0921. 🐛 fix: correct typo in registration form
 0630. 🚀 perf: lazy-load components
 0522. 🐛 fix: handle 500 error in quiz API
+0884. 📚 docs: clarify environment setup
