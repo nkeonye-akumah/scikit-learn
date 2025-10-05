@@ -891,3 +891,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0411. ✅ test: add unit test for quiz service
 0963. 🚀 perf: reduce image load time
+0146. 🎨 style: apply consistent indentation
