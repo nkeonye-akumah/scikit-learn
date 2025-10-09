@@ -895,3 +895,4 @@
 0023. 📚 docs: clarify environment setup
 0615. 🐛 fix: correct typo in registration form
 0340. 🚀 perf: optimize database query for quiz results
+0393. 🚀 perf: lazy-load components
