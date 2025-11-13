@@ -911,3 +911,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0789. ✨ feat: create admin dashboard
 0262. 🎨 style: remove trailing whitespace
+0682. ♻️ chore: rename env.example
