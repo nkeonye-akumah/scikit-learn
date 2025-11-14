@@ -913,3 +913,4 @@
 0262. 🎨 style: remove trailing whitespace
 0682. ♻️ chore: rename env.example
 0530. 🔧 refactor: refactor quiz grading logic
+0173. 🚀 perf: cache repeated calculations
