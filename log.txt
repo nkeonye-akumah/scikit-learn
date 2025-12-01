@@ -923,3 +923,4 @@
 0712. 🎨 style: apply consistent indentation
 0256. ✅ test: mock database connection in test suite
 0720. ✨ feat: add export to CSV option
+0205. 📚 docs: update README with setup steps
