@@ -938,3 +938,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0017. ✅ test: mock database connection in test suite
 0891. ✨ feat: create admin dashboard
+0064. 📚 docs: clarify environment setup
