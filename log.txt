@@ -957,3 +957,4 @@
 0464. 🎨 style: remove trailing whitespace
 0804. ♻️ chore: add GitHub actions badge
 0155. ✨ feat: create admin dashboard
+0699. 🎨 style: standardize quote style
