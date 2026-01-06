@@ -959,3 +959,4 @@
 0155. ✨ feat: create admin dashboard
 0699. 🎨 style: standardize quote style
 0698. 🐛 fix: handle 500 error in quiz API
+0231. 🔧 refactor: clean up auth middleware
