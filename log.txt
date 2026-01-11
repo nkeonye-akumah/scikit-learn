@@ -961,3 +961,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0231. 🔧 refactor: clean up auth middleware
 0055. 📚 docs: update README with setup steps
+0581. ✅ test: add integration test for /submit endpoint
