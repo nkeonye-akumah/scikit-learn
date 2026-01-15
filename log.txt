@@ -963,3 +963,4 @@
 0055. 📚 docs: update README with setup steps
 0581. ✅ test: add integration test for /submit endpoint
 0331. 🐛 fix: fix broken CSS in mobile view
+0937. 🐛 fix: handle 500 error in quiz API
