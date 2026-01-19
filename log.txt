@@ -965,3 +965,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0937. 🐛 fix: handle 500 error in quiz API
 0204. 🎨 style: standardize quote style
+0629. 🔧 refactor: organize models into subfolders
