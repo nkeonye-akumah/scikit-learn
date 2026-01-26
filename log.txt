@@ -967,3 +967,4 @@
 0204. 🎨 style: standardize quote style
 0629. 🔧 refactor: organize models into subfolders
 0113. ✨ feat: add user authentication
+0384. 📚 docs: clarify environment setup
