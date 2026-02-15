@@ -980,3 +980,4 @@
 0002. 🚀 perf: cache repeated calculations
 0077. ♻️ chore: rename env.example
 0523. ♻️ chore: bump dependencies
+0397. 🐛 fix: handle 500 error in quiz API
